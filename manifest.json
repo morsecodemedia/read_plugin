@@ -16,8 +16,8 @@
                 "main.css"
             ],
             "js": [
-                "jquery.js",
-                "jquery.nouislider.js",
+				"node_modules/vue/dist/vue.min.js",
+				"node_modules/vue-slider-component/dist/index.js",
                 "ReadWord.js",
                 "ReadBlock.js",
                 "Read.js",
